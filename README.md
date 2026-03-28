@@ -134,6 +134,14 @@ This project directly supports:
 
 ---
 
+## License
+
+This project is for educational and portfolio purposes.
+
+---
+
+*Built with domain research, structured thinking, and AI-assisted implementation.*
+
 ## 👤 Author
 
 **Mohamed Amin Ouargui**
